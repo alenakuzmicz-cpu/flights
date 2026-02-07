@@ -1,6 +1,6 @@
 # Cheap Flight Search App
 
-A modern React application for finding affordable flights across Europe, Georgia, and Turkey during the holiday period (December 22, 2025 - January 7, 2026).
+A modern React application for finding affordable flights across Europe, Georgia, and Turkey during the period (March 29, 2026 - April 09, 2026).
 
 ## Features
 
@@ -134,3 +134,4 @@ Feel free to submit issues and enhancement requests!
 ## License
 
 This project is open source and available under the MIT License.
+
